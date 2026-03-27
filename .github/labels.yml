@@ -1,0 +1,43 @@
+- name: "product: watch-and-ward"
+  color: "2ea44f"
+  description: "Related to Watch & Ward advisory product"
+
+- name: "product: marketplace"
+  color: "0075ca"
+  description: "Related to Dextrofy Market"
+
+- name: "product: edge-core"
+  color: "e4e669"
+  description: "Related to edge platform"
+
+- name: "platform: drone"
+  color: "d93f0b"
+  description: "Drone platform specific"
+
+- name: "platform: rover"
+  color: "f9d0c4"
+  description: "Rover platform specific"
+
+- name: "status: under-review"
+  color: "cccccc"
+  description: "Being reviewed by team"
+
+- name: "status: planned"
+  color: "bfd4f2"
+  description: "Confirmed for future release"
+
+- name: "status: shipped"
+  color: "0e8a16"
+  description: "Released"
+
+- name: "language: hindi"
+  color: "ff6600"
+  description: "Feedback in Hindi"
+
+- name: "language: punjabi"
+  color: "ff9900"
+  description: "Feedback in Punjabi"
+
+- name: "priority: high"
+  color: "b60205"
+  description: "High priority"
